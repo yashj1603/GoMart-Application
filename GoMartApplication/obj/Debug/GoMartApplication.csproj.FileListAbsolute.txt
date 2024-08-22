@@ -1,0 +1,17 @@
+D:\Github\GoMartApplication\bin\Debug\GoMartApplication.exe.config
+D:\Github\GoMartApplication\bin\Debug\GoMartApplication.exe
+D:\Github\GoMartApplication\bin\Debug\GoMartApplication.pdb
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.csproj.AssemblyReference.cache
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.AboutBox1.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.AddAdmin.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.AddProduct.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.Form1.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.frmAddNewSeller.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.frmCategory.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.frmMain.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.Properties.Resources.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.SellingForm.resources
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.csproj.GenerateResource.cache
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.csproj.CoreCompileInputs.cache
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.exe
+D:\Github\GoMartApplication\obj\Debug\GoMartApplication.pdb
